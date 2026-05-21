@@ -1,0 +1,24 @@
+# WarehouseX Order Management System
+
+This project focuses on optimizing and debugging the WarehouseX Order Management System using Microsoft Copilot.
+
+## Project Objectives
+- Improve database query performance
+- Optimize application code
+- Debug runtime errors
+- Enhance scalability and reliability
+
+## Technologies Used
+- Python
+- SQL
+- Microsoft Copilot
+
+## Files Included
+- optimization_strategy.md
+- optimized_query.sql
+- optimized_app.py
+- debugged_app.py
+- reflective_summary.md
+
+## Author
+Your Name
